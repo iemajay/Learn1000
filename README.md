@@ -7,3 +7,4 @@ ___
 Day | Topic | Time Spent
 --- | --- | ---
 **1** |  [2FA Bypass Techniques](/days/day1.md) | 5 Hours
+Total Time | Total Time spent till now | 5 Hours
