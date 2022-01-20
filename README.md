@@ -6,5 +6,5 @@ This repository will contain all the information shared during my Learn 1000 Day
 ___
 Day | Topic | Time Spent
 --- | --- | ---
-**1** |  [2FA Bypass Techniques](/days/day1.md) | 5 Hours
+**1** |  [2FA Bypass Techniques](/Days/Day1.md) | 5 Hours
 Total Time | Total Time spent till now | 5 Hours
